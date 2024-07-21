@@ -1,0 +1,39 @@
+{
+	"dispositivos":[
+		{
+			"id": 1,
+			"ip": "192.168.10.72",
+			"usorele1": "Luz Galería 1",
+			"usorele2": "Luz Galería 2",
+			"usorele3": "Luz Galería 3",
+			"usorele4": "Luz Patio 1",
+			"estadorele1" : false,
+			"estadorele2" : false,
+			"estadorele3" : false,
+			"estadorele4" : false
+		},
+		{
+			"id": 2,
+			"ip": "192.168.10.172",
+			"usorele1": "Luz Pieza papás 1",
+			"usorele2": "Luz Pieza papás 2",
+			"usorele3": "Luz Pieza papás 3",
+			"usorele4": "Luz Patio 3",
+			"estadorele1" : false,
+			"estadorele2" : false,
+			"estadorele3" : false,
+			"estadorele4" : false
+		},{
+			"id": 3,
+			"ip": "192.168.10.173",
+			"usorele1": "Luz Pieza chicas 1",
+			"usorele2": "Luz Pieza chicas 2",
+			"usorele3": "Luz Pieza chicas 3",
+			"usorele4": "Luz Patio 2",
+			"estadorele1" : false,
+			"estadorele2" : false,
+			"estadorele3" : false,
+			"estadorele4" : false
+		}
+	]
+}
